@@ -85,6 +85,7 @@ Here's the updated `README.md` for installing dependencies using Swift Package M
 
 - **Email/Password Register**: Enter your email, password, choose profile picture after pressing on image, and press Create Account to register.
 <img src="https://github.com/user-attachments/assets/802053b7-6e95-4614-890d-866d72563945" alt="Chat Image" width="400"/>
+
 - **Email/Password Login**: Enter your email and password to log in.
 <img src="https://github.com/user-attachments/assets/8b54cf0e-f922-4e7f-ad10-6b4334160bd6" alt="Chat Image" width="400"/>
 
