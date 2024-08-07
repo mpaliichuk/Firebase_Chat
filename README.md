@@ -84,14 +84,19 @@ Here's the updated `README.md` for installing dependencies using Swift Package M
 ### Authentication
 
 - **Email/Password Register**: Enter your email, password, choose profile picture after pressing on image, and press Create Account to register.
+<img src="https://github.com/user-attachments/assets/802053b7-6e95-4614-890d-866d72563945" alt="Chat Image" width="400"/>
 - **Email/Password Login**: Enter your email and password to log in.
+<img src="https://github.com/user-attachments/assets/8b54cf0e-f922-4e7f-ad10-6b4334160bd6" alt="Chat Image" width="400"/>
 
 
 ### Using the app
-- **Chat**: Press button "+ new message", choose existing user to start chat
-![image](https://github.com/user-attachments/assets/4b62114f-ab6f-4bfa-bcd7-b6b6b19379cb)
-- **Liking message**: Hold any message in chat to open context menu and press "Do you want to like it?"
-![image](https://github.com/user-attachments/assets/8be296ee-5ffc-49c0-853b-e56891608c83)
-- **Liked messages**
-![image](https://github.com/user-attachments/assets/e6b3e652-8131-40fd-b25d-701885ac9db7)
+- **Chat**: Press button "+ new message", choose existing user to start chat  
+<img src="https://github.com/user-attachments/assets/4b62114f-ab6f-4bfa-bcd7-b6b6b19379cb" alt="Chat Image" width="400"/>
+
+- **Liking message**: Hold any message in chat to open context menu and press "Do you want to like it?"  
+<img src="https://github.com/user-attachments/assets/8be296ee-5ffc-49c0-853b-e56891608c83" alt="Liking Message Image" width="400"/>
+
+- **Liked messages**  
+<img src="https://github.com/user-attachments/assets/e6b3e652-8131-40fd-b25d-701885ac9db7" alt="Liked Messages Image" width="400"/>
+
 
